@@ -1,0 +1,9 @@
+.idea
+local/*
+application/media/*
+application/static/*
+db.sqlite3
+.env
+*.log
+*.pyc
+celerybeat*
